@@ -1,0 +1,40 @@
+.nav{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		background-color: whitesmoke;
+		overflow: hidden;
+		background-color: black;
+	}
+	li{
+		float: left;
+	}
+	li a{
+		padding: 16px;
+		text-decoration: none;
+		color:whitesmoke;
+		display:block;
+
+	}
+	li a:hover{
+		background-color:red;
+
+
+	}
+	.par{
+		font-size: 40px; background-color:hsl(2, 100%, 50%); color:black ;"
+
+	}
+	.la{
+		font-size: 20px;background-color: whitesmoke; color:black ;
+	}
+	div{
+		border: 1px solid black;
+		margin: 100px 80px 150px 88px;
+	}
+	.hundred{
+
+	}
+	.twohund{
+		
+	}
